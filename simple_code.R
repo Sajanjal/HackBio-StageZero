@@ -1,6 +1,6 @@
 # HackBio Internship: Data Visualization in Biology
 # Stage Zero Project
-# A simple R script to print personal information and a favorite gene
+# A simple R script to print my personal information and a favorite gene
 
 name <- "Sajanjel Jaballi"
 name_meaning <- "Mirror and pure gold"
@@ -22,4 +22,5 @@ cat(
   "My favourite gene is", favorite_gene, "in", gene_organism,
   ", which", gene_function
 )
+
 
